@@ -166,7 +166,7 @@ You are now ready to use the system!
 
 ## Screenshots
 
-*(Add your own screenshots here to showcase the project)*
+
 
 **Admin Dashboard:**
 ![Admin Dashboard](PATH_TO_YOUR_SCREENSHOT.png)
